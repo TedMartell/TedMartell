@@ -1,6 +1,7 @@
 ## Hi there 👋 My Name is Ted Martell
 
-- 🔭 I’m currently working on a 2D mining game that I aim to publish in 2025
+- 🔭 Recently published a 2D mining game CHEK IT OUT: https://store.steampowered.com/app/3787480/Remote_Miner_Co/
+- Currently working on a 2D arpg POElike, early stages still
 - 🌱 Since January 2024 I'm learning Back-end development through the Boot.dev program, it's been very fun :)  
 - 📫 How to reach me:
   - email: martellted@gmail.com
